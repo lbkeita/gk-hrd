@@ -1,0 +1,14 @@
+__pycache__/ 
+*.pyc 
+venv/ 
+.env 
+*.pt 
+*.zip 
+*.jsonl 
+*.csv 
+*.pkl 
+data/raw/ 
+data/processed/ 
+best_model*.pt 
+results/ 
+.vscode/ 
